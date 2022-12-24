@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+    width: 50vh;
+    height: 70vh;
+    margin-top: 10%;
+}
+
+.front-button{
+    position: absolute;
+    right: 77.9vh; 
+    height: 70vh; 
+    opacity: 0.5; 
+}
+.back-button{
+    position: absolute;
+    left: 77.9vh; 
+    height: 70vh; 
+    opacity: 0.5; 
+}
+img{
+    width: 50vh;
+    height: 70vh;
+}
+h1{
+    position: absolute; 
+    color: rgb(17, 136, 240); 
+}
+h2{
+    position: absolute;
+    bottom: 10vh;
+    font-size: 1em;
+    color: rgb(105, 15, 241);
+}
